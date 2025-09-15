@@ -6,12 +6,13 @@ I specialize in **building scalable web applications**, **backend systems**, and
 
 ---
 
-### 💡 Expertise  
-- **Backend Development** → REST APIs, WebSockets, real-time systems.  
-- **Frontend Development** → React.js, Next.js, Tailwind, responsive UIs.  
-- **Databases** → PostgreSQL, MongoDB, MySQL with Prisma ORM.  
-- **Cloud & DevOps** → AWS, GCP, Docker, CI/CD pipelines.  
-- Strong grasp of **OOP, OS, DBMS, and System Design**.  
+### 💡 Expertise \
+- **Languages** → C, C++, Javascript, Typescript
+- **Backend Development** → Node.js, Express.js, REST APIs, WebSockets.  
+- **Frontend Development** → React.js, Next.js, Tailwind, Redux, Responsive UIs.  
+- **Databases** → PostgreSQL, MongoDB, MySQL, Prisma ORM.  
+- **Cloud & DevOps** → AWS, GCP, Docker.  
+- Strong grasp of **DSA, OOP, OS, DBMS, and System Design**.  
 
 ---
 
