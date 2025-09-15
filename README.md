@@ -1,7 +1,7 @@
 # Shivam ⚡
 
 ### 🔥 About Me  
-Hello! I'm a **Final-year Computer Science undergraduate** and a **Full Stack Developer** with a strong foundation in **DSA and system design**.  
+Hello! I'm a **Final-year Computer Science undergrad** and a **Full Stack Developer** with a strong foundation in **DSA and system design**.  
 I specialize in **building scalable web applications**, **backend systems**, and **AI-powered solutions**. My focus is on writing **clean, production-ready code** and deploying apps on **AWS, GCP, and Firebase**. 🚀  
 
 ---
