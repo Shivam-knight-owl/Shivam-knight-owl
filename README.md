@@ -6,7 +6,7 @@ I specialize in **building scalable web applications**, **backend systems**, and
 
 ---
 
-### 💡 Expertise \
+### 💡 Expertise 
 - **Languages** → C, C++, Javascript, Typescript
 - **Backend Development** → Node.js, Express.js, REST APIs, WebSockets.  
 - **Frontend Development** → React.js, Next.js, Tailwind, Redux, Responsive UIs.  
