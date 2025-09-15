@@ -23,15 +23,9 @@ I specialize in **building scalable web applications**, **backend systems**, and
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-knight-owl&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-knight-owl&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-knight-owl&layout=compact&theme=radical&hide_border=true" height="180em"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-knight-owl&theme=radical" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam-knight-owl&theme=radical" height="180em"/>
-</p>
-
 ---
 
 ### 🌐 Connect with Me  
